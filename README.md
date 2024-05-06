@@ -1,2 +1,2 @@
-# amc_analysis
-아산병원 서준교,이상욱 교수 연구팀 협업 프로젝트 분석 스크립트
+# Privacy-Preserving Prediction of Postoperative Mortality in Multi-Institutional Data: Development and Usability Study
+Collaborative research paper with Asan Medical Center
